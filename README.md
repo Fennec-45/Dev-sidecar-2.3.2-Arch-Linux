@@ -8,6 +8,7 @@ git clone https://github.com/Fennec-45/Dev-sidecar-2.3.2-Arch-Linux.git
 ```
 然后，cd到“devsidecar-arch”目录后执行makepkg -si：
 ```
+cd Dev-sidecar-2.3.2-Arch-Linux
 cd devsidecar-arch
 makepkg -si
 ```
